@@ -1,3 +1,37 @@
 .cardStyle {
   border-radius: 5px;
 }
+.checked {
+  color: orange;
+}
+.dot {
+  height: 33px;
+  width: 33px;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 2em;
+  cursor: pointer;
+}
+.colorA {
+  background-color: black;
+}
+.colorB {
+  background-color: brown;
+}
+.colorC {
+  background-color: darkblue;
+}
+.colorD {
+  background-color: grey;
+}
+.offersNPay {
+  width: 25em;
+  margin: auto;
+}
+.shopButton {
+  margin: auto;
+}
+.logo {
+  width: 3em;
+  height: 3em;
+}
