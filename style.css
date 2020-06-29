@@ -1,3 +1,7 @@
+body {
+  background-color: rgb(192, 192, 192);
+}
+
 .cardStyle {
   border-radius: 5px;
 }
@@ -32,6 +36,10 @@
   margin: auto;
 }
 .logo {
-  width: 3em;
-  height: 3em;
+  width: 10em;
+  height: 10em;
+  margin: auto;
+}
+.jumbo {
+  background-color: white;
 }
